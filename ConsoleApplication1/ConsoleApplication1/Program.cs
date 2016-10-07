@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Text1");
             Console.ReadLine();
+            Console.WriteLine("Рома и Text2");
+            Console.ReadLine();
         }
     }
 }
