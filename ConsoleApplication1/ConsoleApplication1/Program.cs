@@ -14,6 +14,9 @@ namespace ConsoleApplication1
             Console.ReadLine();
             Console.WriteLine("Рома и Text2");
             Console.ReadLine();
+            Console.WriteLine("Рома без Text3");
+            Console.ReadLine();
+
         }
     }
 }
